@@ -1,10 +1,11 @@
 # React实战项目：宜居
 
 ## 项目技术栈
-React+React-Router(v4)+React-Redux+Less+Mock+Fetch
+React Enjoy 是一个综合型的React项目实战课程，集成的技术有React, React-Router(v4),React-Redux, Less, Mock, Fetch。
+
 
 ## 视频观看地址：
-顶级云加：www.yunp.top
+顶级云加：[yunp.top](https://yunp.top)
 
 ## 启动方式
 项目是根据视频进行分阶段实现，最终版本为`react-enjoy-master`
